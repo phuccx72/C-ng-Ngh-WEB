@@ -1,0 +1,110 @@
+body{
+	margin:0px auto;
+}
+/*top-header*/
+#top-header{
+	background-color: #024282;
+	height: 36px;
+	display: flex;
+	line-height: 36px;
+	text-align: center;
+	font-size: 15px;
+}
+.hotline{
+	background-color: none;
+	color:#fdb913;
+	margin-left: 159px;
+	margin-top: auto;
+	margin-bottom: auto;
+	display: flex;
+	align-items: center;
+
+}	
+.thmenu{
+	background-color: none;
+	margin-top: auto;
+	margin-bottom: auto;
+	display: flex;
+	align-items: center;
+}
+.athmenu{
+	text-decoration: none;
+	color: #fff;
+	font-size: 13px;
+	text-align: right;
+	text-decoration: none;
+	margin-right: 60px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}	
+.search{
+	background-color: none;
+	display: flex;
+	align-items: center;
+}
+.language{
+	background-color: none;
+	margin-right: 159px;
+	display: flex;
+	align-items: center;
+}
+/*header*/
+#header{
+	width: 80%;
+	height: 100px;
+	display: flex;
+	line-height: 100px;
+	text-align: center;
+	margin-left: 159px;
+	margin-right: 159px;
+	font-size: 20px;
+}
+.logo{
+	width: 24.1%;
+	height: 70px;
+}
+
+.amenu{
+	text-decoration: none;
+	color:#000;
+	font-size: 22px;
+	margin-right: 60px;
+}
+/*mainweb*/
+#main{
+	background-color: none;
+	height: 600px;
+}
+/*slideshow*/
+#slideshow{
+    position: relative;
+    height: 400px;
+}
+.images-title{
+	background-color:rgba(1,2,3,0.4);
+	width: 80%;
+	height: 90px;
+	position: relative;
+	bottom: 90px;
+	line-height: 90px;
+	font-size: 13px;
+	font-weight: bold;    
+	display: flex;
+	align-items: center;
+}
+.images-title h1{
+    margin:0px;
+    color:#fff;
+	text-align: center;
+}
+.images-list img{
+	width: 80%;
+	text-align: center;
+	
+}
+
+#footer{
+	background-color:blue;
+	color: cyan;
+	height: 150px;
+}
